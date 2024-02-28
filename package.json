@@ -1,5 +1,5 @@
 {
-  "name": "nosql-social-network-api-homework",
+  "name": "john-nosql-work",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aqtagon/Nosql-Social-Network-API-Homework.git"
+    "url": "git+https://github.com/veryjohn1991/john-nosql-work"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aqtagon/Nosql-Social-Network-API-Homework/issues"
+    "url": "https://github.com/veryjohn1991/john-nosql-work/issues"
   },
   "dependencies": {
     "dotenv": "^16.4.1",
     "express": "^4.18.2",
     "mongodb": "^6.3.0",
-    "mongoose": "^8.1.1"
+    "mongoose": "^8.2.0"
   }
 }

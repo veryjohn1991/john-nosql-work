@@ -26,5 +26,6 @@ The goal of this assignment was to create an API for a social network web applic
 
 
 - GitHub Link: https://github.com/veryjohn1991/john-nosql-work 
+-video link: https://drive.google.com/file/d/1DrosP3kJ9QNAY3gg2R5PIlnhnnwEZUtG/view 
 
 Note: Got assistance from Friends  and used chatgpt and google for some questions.
